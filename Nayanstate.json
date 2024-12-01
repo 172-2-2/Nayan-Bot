@@ -1,1 +1,38 @@
-
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261564669243297%22%3A%22wMmyG4PE%22%2C%2261565803899694%22%3A%22R29qLzHH%22%2C%2261567619982601%22%3A%229cchAHKn%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-12-01T03:07:08.655Z",
+        "lastAccessed": "2024-12-01T03:07:08.656Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "1.3125",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-01T03:07:08.656Z",
+        "lastAccessed": "2024-12-01T03:07:08.656Z"
+    },
+    {
+        "key": "wd",
+        "value": "549x1035",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-01T03:07:08.656Z",
+        "lastAccessed": "2024-12-01T03:07:08.656Z"
+    },
+    {
+        "key": "fr",
+        "value": "0iqKhPBgk6AkdJA3f.AWV3Pwa317mlDxKcpBge8jDKBP0.BnIlJI..AAA.0.0.BnS9La.AWVYvwMRo_o",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-01T03:07:08.656Z",
+        "lastAccessed": "2024-12-01T03:07:08.656Z"
+    }
+]
